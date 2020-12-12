@@ -189,6 +189,15 @@ public class ImageChange : MonoBehaviour
 
         Start();
     }
+
+    public void onPlusClick()
+    {
+        if (info.fontSize <= 40) info.fontSize += 2;
+    }
+    public void onMinusClick()
+    {
+        if (info.fontSize >= 9) info.fontSize -= 2;
+    }
     public void onExit()
     {
         Application.Quit();

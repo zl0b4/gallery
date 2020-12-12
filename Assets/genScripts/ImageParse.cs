@@ -6,6 +6,7 @@ public class ImageParse : MonoBehaviour
 {
     public Image im;
     private const float HEIGHT = 292.1003f;
+    private const float WIDTH = 526.393f;
     public string url;
     private RectTransform rectTransform;
 
@@ -18,10 +19,9 @@ public class ImageParse : MonoBehaviour
             Renderer renderer = GetComponent<Renderer>();
             renderer.material.mainTexture = www.texture;
             im.material = renderer.material;
-            rectTransform.sizeDelta = new Vector2((www.texture.width * HEIGHT) / www.texture.height, HEIGHT);
+            if ((www.texture.width * HEIGHT) / www.texture.height < WIDTH)
+                rectTransform.sizeDelta = new Vector2((www.texture.width * HEIGHT) / www.texture.height, HEIGHT);
+            else rectTransform.sizeDelta = new Vector2(((www.texture.width * HEIGHT) / www.texture.height)*0.7f, HEIGHT*0.7f);
         }
     }
-
-
-
 }

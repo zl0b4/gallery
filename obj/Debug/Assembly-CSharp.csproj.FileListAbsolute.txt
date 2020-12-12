@@ -274,4 +274,3 @@ E:\UnityGames\Gallery\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 E:\UnityGames\Gallery\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 E:\UnityGames\Gallery\obj\Debug\Assembly-CSharp.dll
 E:\UnityGames\Gallery\obj\Debug\Assembly-CSharp.pdb
-E:\UnityGames\Gallery\Temp\bin\Debug\MySql.Data.dll

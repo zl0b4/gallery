@@ -22,6 +22,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.ContentSizeFitter
     - UnityEngine.UI.Dropdown
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
     - UnityEngine.UI.InputField
     - UnityEngine.UI.Mask
@@ -123,6 +124,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12224}
     - Class: 114
       Script: {instanceID: 12316}
+    - Class: 114
+      Script: {instanceID: 12442}
     - Class: 114
       Script: {instanceID: 12706}
     - Class: 114
@@ -750,4 +753,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu/Menu.unity
   - Assets/Scenes/MainScenes/MainScene.unity
   - Assets/Scenes/searchResult/searchResult.unity
-  playerPath: C:/Users/evgen/Desktop/MKG0.2.apk
+  playerPath: C:/Users/evgen/Desktop/MKG0.4.apk
