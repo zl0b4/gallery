@@ -9,6 +9,8 @@ public class MenuScript : MonoBehaviour
 {
     public InputField searchInput;
     public Dropdown searchResults;
+    private InternetChecker checker;
+    public GameObject panel;
     public GameObject canvas;
     public ScrollRect resultsScroll;
     private List<string> results = new List<string>();
@@ -35,6 +37,14 @@ public class MenuScript : MonoBehaviour
 
     public void onSearchClick()
     {
+        checker = canvas.GetComponent<InternetChecker>();
+        checker.Start();
+        if (!Params.IsInternetAvailable)
+        {
+            panel.SetActive(true);
+            return;
+        }
+        panel.SetActive(false);
         searchResults.options.Clear();
         Params.res?.Clear();
         Params.resForDropDown?.Clear();
@@ -85,5 +95,9 @@ public class MenuScript : MonoBehaviour
     {
         SceneManager.LoadScene(2);
         Params.dPressed = true;
+    }
+    public void onExit()
+    {
+        Application.Quit();
     }
 }

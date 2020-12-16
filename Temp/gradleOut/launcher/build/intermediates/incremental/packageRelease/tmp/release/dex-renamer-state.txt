@@ -1,0 +1,4 @@
+#Wed Dec 16 19:38:17 YEKT 2020
+base.0=E\:\\UnityGames\\Gallery\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

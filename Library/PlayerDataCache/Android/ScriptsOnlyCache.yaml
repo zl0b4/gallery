@@ -50,25 +50,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11254}
     - Class: 114
-      Script: {instanceID: 11412}
+      Script: {instanceID: 11414}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11834}
+      Script: {instanceID: 11836}
     - Class: 114
-      Script: {instanceID: 12046}
+      Script: {instanceID: 12048}
     - Class: 114
-      Script: {instanceID: 12072}
+      Script: {instanceID: 12074}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12226}
     - Class: 114
-      Script: {instanceID: 12706}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 13060}
     - Class: 114
-      Script: {instanceID: 13082}
+      Script: {instanceID: 13084}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -103,37 +103,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
-    - Class: 114
-      Script: {instanceID: 11412}
+      Script: {instanceID: 11254}
     - Class: 114
       Script: {instanceID: 11414}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11416}
     - Class: 114
-      Script: {instanceID: 11550}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11746}
+      Script: {instanceID: 11552}
     - Class: 114
-      Script: {instanceID: 11834}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 11888}
+      Script: {instanceID: 11836}
     - Class: 114
-      Script: {instanceID: 12028}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12030}
     - Class: 114
-      Script: {instanceID: 12316}
+      Script: {instanceID: 12226}
     - Class: 114
-      Script: {instanceID: 12442}
+      Script: {instanceID: 12318}
     - Class: 114
-      Script: {instanceID: 12706}
+      Script: {instanceID: 12444}
     - Class: 114
-      Script: {instanceID: 12972}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 12974}
     - Class: 114
-      Script: {instanceID: 13082}
+      Script: {instanceID: 13060}
+    - Class: 114
+      Script: {instanceID: 13084}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -170,39 +170,41 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
-    - Class: 114
-      Script: {instanceID: 11412}
+      Script: {instanceID: 11254}
     - Class: 114
       Script: {instanceID: 11414}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11416}
     - Class: 114
-      Script: {instanceID: 11550}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11746}
+      Script: {instanceID: 11552}
     - Class: 114
-      Script: {instanceID: 11834}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 12028}
+      Script: {instanceID: 11836}
     - Class: 114
-      Script: {instanceID: 12072}
+      Script: {instanceID: 12030}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12074}
     - Class: 114
-      Script: {instanceID: 12316}
+      Script: {instanceID: 12226}
     - Class: 114
-      Script: {instanceID: 12378}
+      Script: {instanceID: 12318}
     - Class: 114
-      Script: {instanceID: 12414}
+      Script: {instanceID: 12380}
     - Class: 114
-      Script: {instanceID: 12706}
+      Script: {instanceID: 12416}
     - Class: 114
-      Script: {instanceID: 13046}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 13048}
     - Class: 114
-      Script: {instanceID: 13072}
+      Script: {instanceID: 13060}
+    - Class: 114
+      Script: {instanceID: 13074}
+    - Class: 114
+      Script: {instanceID: 13084}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -237,35 +239,35 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
-    - Class: 114
-      Script: {instanceID: 11412}
+      Script: {instanceID: 11254}
     - Class: 114
       Script: {instanceID: 11414}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11416}
     - Class: 114
-      Script: {instanceID: 11550}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11746}
+      Script: {instanceID: 11552}
     - Class: 114
-      Script: {instanceID: 11834}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 12028}
+      Script: {instanceID: 11836}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12030}
     - Class: 114
-      Script: {instanceID: 12316}
+      Script: {instanceID: 12226}
     - Class: 114
-      Script: {instanceID: 12706}
+      Script: {instanceID: 12318}
     - Class: 114
-      Script: {instanceID: 12950}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 12972}
+      Script: {instanceID: 12952}
     - Class: 114
-      Script: {instanceID: 13058}
+      Script: {instanceID: 12974}
     - Class: 114
-      Script: {instanceID: 13082}
+      Script: {instanceID: 13060}
+    - Class: 114
+      Script: {instanceID: 13084}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -545,7 +547,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: 468c836d582a2a995ab649ff8d0c9cbb
+      Hash: e74b28b3156205751cb54522f35361cc
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MenuScript
@@ -753,4 +755,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu/Menu.unity
   - Assets/Scenes/MainScenes/MainScene.unity
   - Assets/Scenes/searchResult/searchResult.unity
-  playerPath: C:/Users/evgen/Desktop/MKG0.4.apk
+  playerPath: C:/Users/evgen/Desktop/MKG0.5.apk
